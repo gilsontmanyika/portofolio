@@ -25,5 +25,5 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - [UnDraw](https://undraw.co/illustrations)
 
 # References 👏🏻
-- Design from ashutoshhathidara's customizable body of work (https://ashutosh1919.github.io/)
+- Design from ashutoshhathidara's customizable body of work [masterPortfolio](https://github.com/ashutosh1919/masterPortfolio)
 - Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
